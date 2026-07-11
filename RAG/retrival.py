@@ -99,9 +99,9 @@ if __name__ == "__main__":
     # Query
     query = "what is Pinecone in machine learning?"
 
-    ========================================================================
-    Option 0: Raw invocation without RAG
-    ========================================================================
+    # ========================================================================
+    # Option 0: Raw invocation without RAG
+    # ========================================================================
     print("\n" + "=" * 70)
     print("IMPLEMENTATION 0: Raw LLM Invocation (No RAG)")
     print("=" * 70)
